@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.1 (64-bit)
+# SW Build 4081461 on Thu Dec 14 12:24:51 MST 2023
+# IP Build 4080415 on Thu Dec 14 21:01:57 MST 2023
+# SharedData Build 4077621 on Mon Dec 11 00:23:44 MST 2023
+# Start of session at: Fri Mar  1 16:45:39 2024
+# Process ID: 6956
+# Current directory: C:/Users/qwesd/Documents/crc32_1/crc32_1.runs/synth_1
+# Command line: vivado.exe -log crc32.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source crc32.tcl
+# Log file: C:/Users/qwesd/Documents/crc32_1/crc32_1.runs/synth_1/crc32.vds
+# Journal file: C:/Users/qwesd/Documents/crc32_1/crc32_1.runs/synth_1\vivado.jou
+# Running On: Utilizador, OS: Windows, CPU Frequency: 2611 MHz, CPU Physical cores: 10, Host memory: 16839 MB
+#-----------------------------------------------------------
+source crc32.tcl -notrace
